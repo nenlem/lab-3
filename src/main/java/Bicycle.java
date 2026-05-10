@@ -19,7 +19,7 @@ public class Bicycle {
      *
      * @param brand         назва виробника (наприклад, "Trek" або "Giant")
      * @param frameMaterial матеріал, з якого виготовлена рама
-     * @param hasRigidFork  {@code true}, якщо встановлена жорсткова вилка, інакше {@code false}
+     * @param hasRigidFork  {@code true}, якщо встановлена жорстка вилка, інакше {@code false}
      * @param weight        вага велосипеда у кілограмах
      * @param price         вартість велосипеда у гривнях
      */

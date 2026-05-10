@@ -63,7 +63,7 @@ public class Main{
         // Виклик методу сортування
         sortBicycles(bikes);
 
-        System.out.println("\nAfter sorting (Price ↑, Weight ↓)");
+        System.out.println("\nAfter sorting (Price increase ↑, Weight decline ↓)");
         for (Bicycle b : bikes) {
             System.out.println(b.toString());
         }
